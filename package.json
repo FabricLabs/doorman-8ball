@@ -1,0 +1,14 @@
+{
+	"name": "doorman-8ball",
+	"description": "adds a command to ask the magic 8ball a question.",
+	"version": "0.1.0",
+	"license": "Apache-2.0",
+	"readme": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FabricLabs/doorman-8ball.git"
+	},
+	"author": "Nate Richardson <hello@naterichardson.com> (https://naterichardson.com)",
+	"main": "8ball.js",
+	"dependencies": {}
+}
